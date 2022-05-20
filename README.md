@@ -1,3 +1,9 @@
+# This is the source is refer to NOT my final work
+[Refer to THIS](https://github.com/IC-WIE-2022/OrderSystem)
+
+
+
+
 # In-Dining-QR-Code-Ordering-System
 Our System provides a web application accessed by restaurants customers scanning the code on the table where they can check the menu and order
 AND
